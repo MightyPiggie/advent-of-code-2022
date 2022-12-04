@@ -49,3 +49,4 @@ with open('input.txt', 'r') as file:
         total_2+= (data.count(combinations_2[i])*(i+1))
 
 print(f"Excersice 2 awnser: {total_2}")
+
